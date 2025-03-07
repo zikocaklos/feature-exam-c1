@@ -1,0 +1,6 @@
+ENLACE TRELLO:
+https://trello.com/invite/b/67cb6c45033732d44e9be91f/ATTIffae05a893d371435219c630350e6e18DB31FFA7/movil-taller-aereolinas
+ENLACE FIGMA:
+https://www.figma.com/design/cbZ67iFCj0sgiMduAwbsYb/Taller-movil?node-id=0-1&m=dev&t=feWewOdz56YZeAvO-1
+ENLACE DIAGRAMA:
+https://dbdiagram.io/d/movil-67cb70bc263d6cf9a0a424f5
